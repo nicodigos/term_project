@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Ice Bucket",
+        "price": 29.99,
+        "image": "classic-ice-bucket.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Deluxe Ice Bucket",
+        "price": 49.99,
+        "image": "deluxe-ice-bucket.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Luxury Ice Bucket",
+        "price": 79.99,
+        "image": "luxury-ice-bucket.jpeg"
+    }
+]
